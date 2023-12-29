@@ -18,3 +18,4 @@ typedef union header headerT;
 
 void *memAlloc(size_t);
 
+void free(void*);
